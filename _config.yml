@@ -1,0 +1,28 @@
+name: karsapapp.com
+favicon: null
+layout_spectrum: 0.44774545216932893
+typography_spectrum: 0.6012816876173019
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.17875523259863257
+  lightness: 0.31026487052440643
+  saturation: 0.37524349335581064
+  rhythmicContrast: 0.6438612132333219
+purpose: []
