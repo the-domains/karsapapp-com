@@ -17,12 +17,12 @@ keywords:
   - branding
   - photography
 description: Underground (M) is covered with mint green tiles. Black lines helps you hold on to.
-datePublished: '2015-12-05T13:52:16.168Z'
-dateModified: '2015-12-05T13:52:11.004Z'
+datePublished: '2015-12-05T13:55:45.251Z'
+dateModified: '2015-12-05T13:52:35.308Z'
 author: []
 related: []
 app_links: []
-title: Karsa Papp - Berlin - 30 Sec on Exposure
+title: Berlin - 30 Sec on Exposure
 sourcePath: _posts/2015-12-05-karsa-papp-berlin-30-sec-on-exposure.md
 published: true
 authors: []
