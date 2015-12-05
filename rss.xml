@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[karsapapp.com]]></title>
+        <description><![CDATA[karsapapp.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Dec 2015 13:44:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Karsa Papp - Berlin - 30 Sec on Exposure]]></title>
+            <description><![CDATA[<article><h1>Karsa Papp - Berlin - 30 Sec on Exposure</h1><p>Underground (M) is covered with mint green tiles. Black lines helps you hold on to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/283928864e1ce4fecbd10a8b1c5cf7faf92ff717.jpg"></article>]]></description>
+            <link>https://karsa.exposure.co/berlin-30-sec</link>
+            <guid isPermaLink="false">87841d76-96d3-45d1-96e7-f0a9518f1da7</guid>
+            <pubDate>Sat, 05 Dec 2015 13:43:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
