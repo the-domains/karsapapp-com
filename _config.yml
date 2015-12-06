@@ -1,7 +1,7 @@
 name: karsapapp.com
 favicon: null
-layout_spectrum: 0.55109
-typography_spectrum: 0.81404
+layout_spectrum: 0.24106
+typography_spectrum: 0.73957
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5
-  lightness: 0.3102648705244064
-  saturation: 0.5
-  rhythmicContrast: 0.25
+    - '#6a6a6a'
+    - '#313131'
+    - '#9a9a9a'
+    - '#0f0f0f'
+    - '#c8c8c8'
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
