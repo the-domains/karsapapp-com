@@ -34,8 +34,8 @@ color:
     - '#9a9a9a'
     - '#0f0f0f'
     - '#c8c8c8'
-  brandStrength: 0
+  brandStrength: 0.3125
   lightness: 0.5
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
