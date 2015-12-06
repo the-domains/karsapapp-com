@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[karsapapp.com]]></title>
         <description><![CDATA[karsapapp.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://karsapapp.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 08:02:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 08:23:47 GMT</lastBuildDate>
+        <atom:link href="http://karsapapp.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96a45abe-da7d-4d5a-91ae-fef06b4650f6.jpg">]]></description>
-            <link>undefined1a44c883-cc85-4522-9f3d-f647888fadda/index.html</link>
+            <link>http://karsapapp.com/1a44c883-cc85-4522-9f3d-f647888fadda/index.html</link>
             <guid isPermaLink="false">1a44c883-cc85-4522-9f3d-f647888fadda</guid>
-            <pubDate>Sun, 06 Dec 2015 08:02:06 GMT</pubDate>
+            <pubDate>Sun, 06 Dec 2015 08:23:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
