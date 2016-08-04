@@ -1,41 +1,41 @@
-name: karsapapp.com
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.50401
+title: Me sharing some photos
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Me sharing some photos
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 1
+  brandStrength: 0.4749104
+  lightness: 0.4390681
+  brandColors:
+    - '#1C1A27'
+    - '#E3E7EA'
+    - '#C98C6F'
+    - '#87755F'
+    - '#ACB0B3'
+  rhythmicContrast: 0
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: 'http://karsapapp.com/'
   facebook: null
-  twitter: null
+name: karsapapp.com
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#6a6a6a'
-    - '#313131'
-    - '#9a9a9a'
-    - '#0f0f0f'
-    - '#c8c8c8'
-  brandStrength: 0.3125
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.734767
+layout_spectrum: 0.7311828
